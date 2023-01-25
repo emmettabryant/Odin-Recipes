@@ -1,1 +1,2 @@
-# Odin-Recipes
+# Odin-Recipes 
+<!-- This will be a basic test of my current knowledge of HTML. The goal is to take what I know about boilerplates, several different elements (inluding headers, paragraphs, italic text, bold text, links, images) along with their attributes, and create a "brutalist" website about recipes for cooking. -->
